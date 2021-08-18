@@ -1,4 +1,5 @@
 // 1) День Недели
+
 let day = prompt('Choose number between 1 to 7', '1-7');
 switch (day)
 {
